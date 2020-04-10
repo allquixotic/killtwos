@@ -7,3 +7,5 @@ edition = "2018"
 [dependencies]
 walkdir = "2"
 trash = "1"
+executors = "0"
+regex = "1"
